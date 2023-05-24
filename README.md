@@ -1,6 +1,6 @@
 # Projects_Data_Exploration
 
-#Includes:
-#Breast cancer identification project
-#Personal loan exploration project
-#Heart diesease identification project 
+Includes:
+1. Breast cancer identification project
+2. Personal loan exploration project
+3. Heart diesease identification project 
